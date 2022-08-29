@@ -28,7 +28,14 @@ h4{
     color: #4ea0ff;
 }
 
-
 .immagini-tim{
+    margin-top: 20px;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+p{
     margin-top: 20px;
 }
